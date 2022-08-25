@@ -1,0 +1,5 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/DSP-8/Desktop/lab1/lab1.srcs/sources_1/new/ha1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ha1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/DSP-8/Desktop/lab1/lab1.srcs/sources_1/new/fa3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity fa3
